@@ -9,3 +9,5 @@ desktop.ini
 
 # Node (caso venha a usar)
 node_modules/
+
+.github/
